@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test_reg_log_mysql.iml" filepath="$PROJECT_DIR$/test_reg_log_mysql.iml" />
+      <module fileurl="file://F:\App2017\projectAtfalna\test_reg_log_mysql2\app\app.iml" filepath="F:\App2017\projectAtfalna\test_reg_log_mysql2\app\app.iml" />
+      <module fileurl="file://F:\App2017\projectAtfalna\test_reg_log_mysql2\test_reg_log_mysql.iml" filepath="F:\App2017\projectAtfalna\test_reg_log_mysql2\test_reg_log_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_reg_log_mysql2.iml" filepath="$PROJECT_DIR$/test_reg_log_mysql2.iml" />
     </modules>
   </component>
 </project>
